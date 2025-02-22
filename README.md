@@ -1,4 +1,4 @@
-# Desafio-DIO-Banco-de-Dados-e-commerce
+# Desafio-DIO-Banco-de-Dados-E-COMMERCE
 Desafio DIO: Refinando um Projeto Conceitual de Banco de Dados e-commerce
 
 Descrição do Desafio
